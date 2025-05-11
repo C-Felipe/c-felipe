@@ -15,8 +15,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipelopes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelopes&layout=compact&exclude_repo=nome-do-repositorio&theme=tokyonight" alt="Top Langs" />
-</p>
 
 
 <p align="center">
