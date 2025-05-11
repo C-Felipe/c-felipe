@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  > “A tecnologia só é verdadeiramente poderosa quando serve a todos.”
+“A tecnologia só é verdadeiramente poderosa quando serve a todos.”
 </p>
