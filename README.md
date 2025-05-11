@@ -19,4 +19,6 @@
   <br/>
 </p>
 
-> “A tecnologia só é verdadeiramente poderosa quando serve a todos.”
+<p align="center">
+  > “A tecnologia só é verdadeiramente poderosa quando serve a todos.”
+</p>
