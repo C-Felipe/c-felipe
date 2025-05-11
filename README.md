@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou o Felipe Lopes</h1>
 
-<!--
-**C-Felipe/c-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Estudante de BTI na UFERSA 
+  👨‍💻 Desenvolvedor em formação
+  🎮 Apaixonado por jogos, filmes e tecnologia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipelopes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelopes&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+> “A tecnologia só é verdadeiramente poderosa quando serve a todos.”
