@@ -1,4 +1,8 @@
 <h1 align="center">Olá! 👋 Eu sou o Felipe Lopes</h1>
+<h1 align="center">
+  <img src="https://your-hosted-gif-url.com/felipe-lopes.gif" alt="Felipe Lopes" />
+</h1>
+
 
 <p align="center">
   🎓 Estudante de BTI na UFERSA  
