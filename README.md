@@ -14,7 +14,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c-felipe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-felipe&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 
 <p align="center">
